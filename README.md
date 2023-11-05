@@ -1,30 +1,29 @@
-# Alura Books - Biblioteca Virtual
+# Alura Plus
 
-Bem-vindo ao projeto **Alura Books**! Este é um projeto de uma biblioteca virtual focada em livros acadêmicos de tecnologia. Nesta biblioteca, destacamos o "Melhor Livro do Mês" e a "Melhor Autora do Mês" para ajudar os leitores a descobrirem as melhores opções de leitura.
+Bem-vindo ao projeto **Alura Plus**! Esta é uma tela de vendas de assinatura que oferece o **Combo+**, que consiste no **Alura Línguas** e no **Alura+**. 
 
 ## Visão Geral
 
-O **Alura Books** é uma aplicação web que oferece uma seleção cuidadosa de livros acadêmicos de tecnologia. Além disso, destacamos mensalmente o que consideramos o "Melhor Livro do Mês" e a "Melhor Autora do Mês", proporcionando aos usuários recomendações valiosas.
-
-Este projeto foi concebido com o objetivo de aprimorar as habilidades de desenvolvimento mobile e a responsividade de projetos, garantindo uma experiência agradável para os usuários, independentemente do dispositivo utilizado.
+O **Alura Plus** é uma tela de vendas que tem como objetivo apresentar e vender o **Combo+** para potenciais assinantes. Este projeto foi desenvolvido com o intuito de aprender sobre o uso do Flexbox, HTML e CSS para criar layouts responsivos e atraentes.
 
 ## Funcionalidades
 
-1. **Catálogo de Livros**: Navegue e pesquise uma variedade de livros acadêmicos de tecnologia.
+A tela de vendas do **Alura Plus** inclui as seguintes funcionalidades:
 
-2. **Melhor Livro do Mês**: Descubra o livro destacado como o melhor do mês e saiba por que ele merece esse destaque.
-
-3. **Melhor Autora do Mês**: Conheça a autora em destaque do mês e explore sua obra.
+- Destaque dos principais benefícios do **Combo+**.
+- Descrição detalhada do conteúdo disponível nas plataformas **Alura Línguas** e **Alura+**.
+- Preços, valores de assinatura e dispositivos para acessar.
 
 ## Tecnologias Utilizadas
 
-O projeto **Alura Books** foi desenvolvido utilizando as seguintes tecnologias:
+Para criar a tela de vendas do **Alura Plus**, foram utilizadas as seguintes tecnologias:
 
 - HTML5
 - CSS3
-- JavaScript
+- Flexbox
 
-## Autora
+## Autor
+
 - Nome: Thamy Vieira
 
-Obrigado por visitar o **Alura Books**. Esperamos que você encontre livros valiosos para sua jornada de aprendizado em tecnologia. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Apreciamos o seu interesse no projeto!
+Obrigado por explorar a tela de vendas do **Alura Plus**. 
