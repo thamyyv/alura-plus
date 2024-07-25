@@ -166,13 +166,15 @@ body {
         flex-direction: column;
         justify-content: flex-start;
         height: auto;
+        background-size: 130%;
+        background-position: 100%;
     }
 
     .container__caixa {
-        margin: 1em 0 0 1em;
-        width: 40%;
+        margin: 0;
+        width: 50%;
         align-self: flex-start;
-        transform: scale(0.7);
+        transform: scale(0.8);
     }
 
     .container__imagem {
@@ -182,5 +184,30 @@ body {
     
     .container {
         height: 50em;
+    }
+
+    .secundario {
+        margin: 0 3em;
+    }
+
+    .secundario__imagem {
+        width: 100%;
+    }
+
+    .descricao__paragrafo, .lista__item, .container__botao, .botao_secundario {
+        font-size: 22px;
+    }
+
+    .rodape {
+        margin:0;
+    }
+
+    .rodape__lista  {
+        font-size: 20px;
+        margin: 1em 0;
+    }
+
+    .rodape__paragrafo {
+        font-size: 8px;
     }
 }
